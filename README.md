@@ -13,7 +13,7 @@
 * Backend : FLASK (Python)
 * 분석모델 : Speech_Recognition (Python)
 * 영상재생 : Video.js (Javascript)
-
+* 웹페이지 : HTML, CSS
 
 ## 팀원
 ### 소프트웨어융합학과 신현서 (2019102104)
