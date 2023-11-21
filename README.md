@@ -20,4 +20,4 @@
 * github-page : 
 
 ### 경희대학교 소프트웨어융합학과 김찬 (2019102087)
-* github-page : 
+* github-page : https://github.com/Kim-Chan1
