@@ -22,6 +22,6 @@ Broadcast Live Stream Youtube Video with Caption
 
 ## 팀원
 
-소프트웨어융합학과 19학번 신현서 (https://github.com/shinlucas)
-소프트웨어융합학과 19학번 김찬 (https://github.com/Kim-Chan1)
+* 소프트웨어융합학과 19학번 신현서 (https://github.com/shinlucas)
+* 소프트웨어융합학과 19학번 김찬 (https://github.com/Kim-Chan1)
 
