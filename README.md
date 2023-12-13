@@ -14,3 +14,7 @@
 * 분석모델 : Speech_Recognition (Python)
 * 영상재생 : Video.js (Javascript)
 * 웹페이지 : HTML, CSS
+
+## 시스템구조
+![프레젠테이션2](https://github.com/Kim-Chan1/KHUflix/assets/61401965/b1ffc45f-206a-49e7-a649-9a663a7fe5d5)
+
